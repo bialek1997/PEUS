@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <ReferencePath>c:\Program Files (x86)\Kvaser\Canlib\dotnet\win32\netstandard2.0\</ReferencePath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Platform)' == 'x64' ">
+    <ReferencePath>c:\Program Files (x86)\Kvaser\Canlib\dotnet\x64\netstandard2.0\</ReferencePath>
+  </PropertyGroup>
+</Project>

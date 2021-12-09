@@ -1,0 +1,13 @@
+C:\Users\lidka\source\repos\Sterowanie\bin\x86\Debug\Sterowanie.exe.config
+C:\Users\lidka\source\repos\Sterowanie\bin\x86\Debug\Sterowanie.exe
+C:\Users\lidka\source\repos\Sterowanie\bin\x86\Debug\Sterowanie.pdb
+C:\Users\lidka\source\repos\Sterowanie\bin\x86\Debug\Kvaser.CanLib.dll
+C:\Users\lidka\source\repos\Sterowanie\bin\x86\Debug\Kvaser.CanLib.xml
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.csproj.SuggestedBindingRedirects.cache
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.Form1.resources
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.Properties.Resources.resources
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.csproj.GenerateResource.cache
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.csproj.CoreCompileInputs.cache
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.csproj.CopyComplete
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.exe
+C:\Users\lidka\source\repos\Sterowanie\obj\x86\Debug\Sterowanie.pdb

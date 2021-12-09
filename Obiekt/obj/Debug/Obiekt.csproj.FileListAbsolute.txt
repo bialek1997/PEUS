@@ -1,0 +1,11 @@
+C:\Users\lidka\source\repos\Obiekt\bin\Debug\Obiekt.exe.config
+C:\Users\lidka\source\repos\Obiekt\bin\Debug\Obiekt.exe
+C:\Users\lidka\source\repos\Obiekt\bin\Debug\Obiekt.pdb
+C:\Users\lidka\source\repos\Obiekt\obj\Debug\Obiekt.csproj.AssemblyReference.cache
+C:\Users\lidka\source\repos\Obiekt\obj\Debug\Obiekt.csproj.SuggestedBindingRedirects.cache
+C:\Users\lidka\source\repos\Obiekt\obj\Debug\Obiekt.csproj.CoreCompileInputs.cache
+C:\Users\lidka\source\repos\Obiekt\obj\Debug\Obiekt.exe
+C:\Users\lidka\source\repos\Obiekt\obj\Debug\Obiekt.pdb
+C:\Users\lidka\source\repos\Obiekt\bin\Debug\Kvaser.CanLib.dll
+C:\Users\lidka\source\repos\Obiekt\bin\Debug\Kvaser.CanLib.xml
+C:\Users\lidka\source\repos\Obiekt\obj\Debug\Obiekt.csproj.CopyComplete

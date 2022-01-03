@@ -1,0 +1,8 @@
+Nazwa Projektu:
+Symulacja komputerowa obsługi silnika
+z wykorzystaniem magistrali komunikacyjnej CAN
+
+Skład grupy:
+Maciej Białecki nr 239395
+Marcin Kania nr 239402
+Damian Kopeć nr 239405
